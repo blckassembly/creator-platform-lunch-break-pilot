@@ -1,0 +1,26 @@
+fsq_id,name,categories,latitude,longitude,address,locality,region,postcode,market
+mb-suf-001,Metro Burger - Huntington,"Burger Joint, Fast Food Restaurant",40.8682,-73.4257,312 Main St,Huntington,NY,11743,Suffolk
+mb-suf-002,Metro Burger - Smithtown,"Burger Joint, Fast Food Restaurant",40.8557,-73.2007,48 E Main St,Smithtown,NY,11787,Suffolk
+mb-suf-003,Metro Burger - Hauppauge,"Burger Joint, Fast Food Restaurant",40.8253,-73.2047,812 Motor Pkwy,Hauppauge,NY,11788,Suffolk
+mb-suf-004,Metro Burger - Commack,"Burger Joint, Fast Food Restaurant",40.8429,-73.2927,6160 Jericho Tpke,Commack,NY,11725,Suffolk
+mb-suf-005,Metro Burger - Bay Shore,"Burger Joint, Fast Food Restaurant",40.725,-73.2454,1701 Sunrise Hwy,Bay Shore,NY,11706,Suffolk
+mb-suf-006,Metro Burger - Brentwood,"Burger Joint, Fast Food Restaurant",40.7812,-73.2460,903 Suffolk Ave,Brentwood,NY,11717,Suffolk
+mb-suf-007,Metro Burger - Babylon,"Burger Joint, Fast Food Restaurant",40.7003,-73.3257,114 Deer Park Ave,Babylon,NY,11702,Suffolk
+mb-suf-008,Metro Burger - Islip,"Burger Joint, Fast Food Restaurant",40.7298,-73.2104,485 Main St,Islip,NY,11751,Suffolk
+mb-suf-009,Metro Burger - Patchogue,"Burger Joint, Fast Food Restaurant",40.7657,-73.0195,65 E Main St,Patchogue,NY,11772,Suffolk
+mb-suf-010,Metro Burger - Shirley,"Burger Joint, Fast Food Restaurant",40.7968,-72.8734,999 Montauk Hwy,Shirley,NY,11967,Suffolk
+mb-suf-011,Metro Burger - Riverhead,"Burger Joint, Fast Food Restaurant",40.9176,-72.6624,1086 Old Country Rd,Riverhead,NY,11901,Suffolk
+mb-suf-012,Metro Burger - Sayville,"Burger Joint, Fast Food Restaurant",40.7354,-73.0812,5710 Sunrise Hwy,Sayville,NY,11782,Suffolk
+mb-nas-001,Metro Burger - Hempstead,"Burger Joint, Fast Food Restaurant",40.7062,-73.6187,233 Fulton Ave,Hempstead,NY,11550,Nassau
+mb-nas-002,Metro Burger - Garden City,"Burger Joint, Fast Food Restaurant",40.7268,-73.6343,990 Franklin Ave,Garden City,NY,11530,Nassau
+mb-nas-003,Metro Burger - Mineola,"Burger Joint, Fast Food Restaurant",40.7495,-73.6407,155 Jericho Tpke,Mineola,NY,11501,Nassau
+mb-nas-004,Metro Burger - Levittown,"Burger Joint, Fast Food Restaurant",40.7259,-73.5143,3060 Hempstead Tpke,Levittown,NY,11756,Nassau
+mb-nas-005,Metro Burger - Hicksville,"Burger Joint, Fast Food Restaurant",40.7684,-73.5254,421 S Broadway,Hicksville,NY,11801,Nassau
+mb-nas-006,Metro Burger - Freeport,"Burger Joint, Fast Food Restaurant",40.6576,-73.5832,78 W Merrick Rd,Freeport,NY,11520,Nassau
+mb-nas-007,Metro Burger - Long Beach,"Burger Joint, Fast Food Restaurant",40.5884,-73.6579,210 E Park Ave,Long Beach,NY,11561,Nassau
+mb-nas-008,Metro Burger - Rockville Centre,"Burger Joint, Fast Food Restaurant",40.6587,-73.6412,318 Sunrise Hwy,Rockville Centre,NY,11570,Nassau
+mb-nas-009,Metro Burger - Massapequa,"Burger Joint, Fast Food Restaurant",40.6803,-73.4750,5210 Sunrise Hwy,Massapequa,NY,11758,Nassau
+mb-buf-001,Metro Burger - Downtown Buffalo,"Burger Joint, Fast Food Restaurant",42.8864,-78.8784,422 Main St,Buffalo,NY,14203,Buffalo
+mb-buf-002,Metro Burger - Elmwood Village,"Burger Joint, Fast Food Restaurant",42.9080,-78.8840,965 Elmwood Ave,Buffalo,NY,14222,Buffalo
+mb-buf-003,Metro Burger - North Buffalo,"Burger Joint, Fast Food Restaurant",42.9474,-78.8776,2460 Delaware Ave,Buffalo,NY,14216,Buffalo
+mb-buf-004,Metro Burger - Cheektowaga,"Burger Joint, Fast Food Restaurant",42.9195,-78.8062,3725 Genesee St,Cheektowaga,NY,14225,Buffalo
